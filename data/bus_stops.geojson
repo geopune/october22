@@ -1,0 +1,5380 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-10-15T06:09:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/352313352",
+        "addr:street": "Kondhwa Road",
+        "amenity": "bus_station",
+        "area": "yes",
+        "highway": "bus_stop",
+        "name": "Kondhwa Bus Stop",
+        "note": "Kondhwa Khurd Bus Stop"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.8890347,
+              18.4731959
+            ],
+            [
+              73.8890193,
+              18.4729395
+            ],
+            [
+              73.8890576,
+              18.4729427
+            ],
+            [
+              73.8890773,
+              18.4731864
+            ],
+            [
+              73.8890347,
+              18.4731959
+            ]
+          ]
+        ]
+      },
+      "id": "way/352313352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/245646238",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sutar Davakhana",
+        "name:mr": "सुतार दवाखाना",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8075328,
+          18.5041022
+        ]
+      },
+      "id": "node/245646238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248156037",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Deccan Corner",
+        "name:mr": "डेक्कन कॉर्नर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8411516,
+          18.5133826
+        ]
+      },
+      "id": "node/248156037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/605257600",
+        "highway": "bus_stop",
+        "name": "Noble Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9276916,
+          18.5024023
+        ]
+      },
+      "id": "node/605257600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/633121822",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Raste Wada",
+        "name:mr": "रास्ते वाडा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8647837,
+          18.5211848
+        ]
+      },
+      "id": "node/633121822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/672219354",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Collector Kacheri",
+        "name:mr": "कलेक्टर कचेरी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8721359,
+          18.5244565
+        ]
+      },
+      "id": "node/672219354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/672220644",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Collector Kacheri",
+        "name:mr": "कलेक्टर कचेरी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8716998,
+          18.5244012
+        ]
+      },
+      "id": "node/672220644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/678693424",
+        "highway": "bus_stop",
+        "name": "Swargate PMPML Depot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8613881,
+          18.5005006
+        ]
+      },
+      "id": "node/678693424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/680016403",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Akurdi Village BS",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7791926,
+          18.649813
+        ]
+      },
+      "id": "node/680016403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/763446411",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Dahanukar Colony (Ram Mandir)",
+        "name:mr": "डहाणूकर कॉलनी (राम मंदिर)",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8102718,
+          18.4956415
+        ]
+      },
+      "id": "node/763446411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/763448439",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kumbare Park",
+        "name:mr": "कुंबरे पार्क",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7981352,
+          18.5031794
+        ]
+      },
+      "id": "node/763448439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/763513035",
+        "highway": "bus_stop",
+        "name": "Shivaji Commercial Complex (Mahada Complex), Nr Housingbord bus stop, Pune-411006."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8995588,
+          18.5751841
+        ]
+      },
+      "id": "node/763513035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/865754945",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Balewadi Phata",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7829187,
+          18.563542
+        ]
+      },
+      "id": "node/865754945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/865828962",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paud Phata",
+        "name:mr": "पौड फाटा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8243601,
+          18.5054496
+        ]
+      },
+      "id": "node/865828962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/871501131",
+        "highway": "bus_stop",
+        "name": "Balewadi Gaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.780392,
+          18.5765345
+        ]
+      },
+      "id": "node/871501131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/871529595",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Baner Phata Bus Stop",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8094135,
+          18.5499281
+        ]
+      },
+      "id": "node/871529595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1011184954",
+        "highway": "bus_stop",
+        "name": "Sai Chowk",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7857871,
+          18.5434685
+        ]
+      },
+      "id": "node/1011184954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1054647784",
+        "highway": "bus_stop",
+        "name": "Dandekar Bridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8466642,
+          18.5011157
+        ]
+      },
+      "id": "node/1054647784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1063806007",
+        "highway": "bus_stop",
+        "name": "Pandavnagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7826234,
+          18.544023
+        ]
+      },
+      "id": "node/1063806007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1065032002",
+        "highway": "bus_stop",
+        "name": "Sindhunagar Corner"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7686947,
+          18.6558102
+        ]
+      },
+      "id": "node/1065032002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1065043546",
+        "highway": "bus_stop",
+        "name": "Panchavati"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8096596,
+          18.5390016
+        ]
+      },
+      "id": "node/1065043546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1065043550",
+        "highway": "bus_stop",
+        "name": "NCL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8117625,
+          18.5394695
+        ]
+      },
+      "id": "node/1065043550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1065043553",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "IMD Colony",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8048526,
+          18.5378421
+        ]
+      },
+      "id": "node/1065043553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1065043556",
+        "highway": "bus_stop",
+        "name": "Pashan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7960554,
+          18.5369875
+        ]
+      },
+      "id": "node/1065043556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1065834430",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Mafatlal Bungalow / Reserve Bank",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8376961,
+          18.535569
+        ]
+      },
+      "id": "node/1065834430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1065834431",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "E-Square",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8350343,
+          18.5378018
+        ]
+      },
+      "id": "node/1065834431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1065838850",
+        "highway": "bus_stop",
+        "name": "PMC Mangala"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.854079,
+          18.5239213
+        ]
+      },
+      "id": "node/1065838850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1065896629",
+        "highway": "bus_stop",
+        "name": "Sutarwadi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7814207,
+          18.5386289
+        ]
+      },
+      "id": "node/1065896629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1067961977",
+        "highway": "bus_stop",
+        "name": "Vishwakarma Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7876496,
+          18.5429523
+        ]
+      },
+      "id": "node/1067961977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1067961979",
+        "highway": "bus_stop",
+        "name": "Abhinav College",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7795815,
+          18.5447222
+        ]
+      },
+      "id": "node/1067961979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1109153495",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pratik Nagar",
+        "name:mr": "प्रतीक नगर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8094614,
+          18.5081487
+        ]
+      },
+      "id": "node/1109153495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1109210919",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kothrud Depot",
+        "name:mr": "कोथरुड डेपो",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7950431,
+          18.5078508
+        ]
+      },
+      "id": "node/1109210919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1109210921",
+        "highway": "bus_stop",
+        "local_ref": "Vanaz Corner ST pickup",
+        "name": "State Transport Bus stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8050809,
+          18.5069905
+        ]
+      },
+      "id": "node/1109210921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1223958268",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nal Stop",
+        "name:mr": "नळ स्टॉप",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8319633,
+          18.5089079
+        ]
+      },
+      "id": "node/1223958268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1226588499",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lohgaon",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9245544,
+          18.5957701
+        ]
+      },
+      "id": "node/1226588499"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1455235579",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Garware Mahavidyalay",
+        "name:mr": "गरवारे महाविद्यालय",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.838844,
+          18.5123529
+        ]
+      },
+      "id": "node/1455235579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1703097167",
+        "highway": "bus_stop",
+        "name": "Ambegaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8375551,
+          18.451118
+        ]
+      },
+      "id": "node/1703097167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1743974575",
+        "highway": "bus_stop",
+        "name": "Shewale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.832473,
+          18.5625343
+        ]
+      },
+      "id": "node/1743974575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1747605469",
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:state": "Maharashtra",
+        "addr:street": "Prince Of Wales Drive",
+        "highway": "bus_stop",
+        "name": "Netaji Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8933921,
+          18.4882686
+        ]
+      },
+      "id": "node/1747605469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1762191454",
+        "alt_name": "Dhayari",
+        "amenity": "bus_station",
+        "highway": "bus_stop",
+        "name": "Dhayari Gaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8110435,
+          18.4513059
+        ]
+      },
+      "id": "node/1762191454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1827286839",
+        "bench": "no",
+        "highway": "bus_stop",
+        "local_ref": "Rural Police HQ",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8200467,
+          18.5405299
+        ]
+      },
+      "id": "node/1827286839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1868705570",
+        "highway": "bus_stop",
+        "name": "Donje Phata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7665893,
+          18.4121837
+        ]
+      },
+      "id": "node/1868705570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2006306826",
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:postcode": "411048",
+        "addr:state": "Maharashtra",
+        "addr:street": "Vitthal Rao Shivarkar Marg",
+        "amenity": "bus_station",
+        "building": "roof",
+        "highway": "bus_stop",
+        "name": "Indira Vasahat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.900633,
+          18.481568
+        ]
+      },
+      "id": "node/2006306826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2036485114",
+        "addr:city": "Pune",
+        "addr:country": "IN",
+        "addr:postcode": "411018",
+        "addr:state": "Maharashtra",
+        "addr:street": "Vitthal Rao Shivarkar Marg",
+        "highway": "bus_stop",
+        "name": "Borde Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9004015,
+          18.4848996
+        ]
+      },
+      "id": "node/2036485114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2036701176",
+        "highway": "bus_stop",
+        "name": "Jambhulkar Chowk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8999973,
+          18.4952055
+        ]
+      },
+      "id": "node/2036701176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2085669819",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "SNDT",
+        "name:mr": "एस एन डी टी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8285677,
+          18.5081769
+        ]
+      },
+      "id": "node/2085669819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2085669844",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Garware Mahavidyalay",
+        "name:mr": "गरवारे महाविद्यालय",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8397526,
+          18.5128652
+        ]
+      },
+      "id": "node/2085669844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2085669850",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Deccan Corner",
+        "name:mr": "डेक्कन कॉर्नर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8410905,
+          18.513455
+        ]
+      },
+      "id": "node/2085669850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2086912327",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pune University",
+        "name:mr": "पुणे विद्यापीठ",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82771,
+          18.5418764
+        ]
+      },
+      "id": "node/2086912327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2086912362",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "Pune University",
+        "name:mr": "पुणे विद्यापीठ",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8258049,
+          18.5427933
+        ]
+      },
+      "id": "node/2086912362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2086912373",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pune University",
+        "name:mr": "पुणे विद्यापीठ",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8273775,
+          18.5434063
+        ]
+      },
+      "id": "node/2086912373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2087084423",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8288952,
+          18.5125841
+        ]
+      },
+      "id": "node/2087084423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2088125809",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jog Hospital",
+        "name:mr": "जोग हॉस्पिटल",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8217809,
+          18.5091844
+        ]
+      },
+      "id": "node/2088125809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2092676651",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vanaz Corner",
+        "name:mr": "वनाझ कॉर्नर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8077089,
+          18.5071912
+        ]
+      },
+      "id": "node/2092676651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2092676679",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vanaz Corner",
+        "name:mr": "वनाझ कॉर्नर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8080132,
+          18.5075994
+        ]
+      },
+      "id": "node/2092676679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2147389184",
+        "addr:street": "Swami Vivekanand Road",
+        "highway": "bus_stop",
+        "name": "Indira Nagar Bus Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8639307,
+          18.4687483
+        ]
+      },
+      "id": "node/2147389184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2259729638",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sonya Maruti Chowk",
+        "name:mr": "सोन्या मारुती चौक",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8591744,
+          18.5159878
+        ]
+      },
+      "id": "node/2259729638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2259729678",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "KEM Hospital",
+        "name:mr": "केईएम रुग्णालय",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8675231,
+          18.5204608
+        ]
+      },
+      "id": "node/2259729678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2266620664",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "15 August Chowk",
+        "name:mr": "१५ ऑगस्ट चौक",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8663642,
+          18.5223321
+        ]
+      },
+      "id": "node/2266620664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2279233397",
+        "bus": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "layer": "-1",
+        "name": "Kothrud Stand",
+        "name:mr": "कोथरूड स्टँड",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8134087,
+          18.4999434
+        ]
+      },
+      "id": "node/2279233397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2358247540",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vishrambag Wada",
+        "name:mr": "विश्रामबागवाडा",
+        "operator": "PMPML",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8528438,
+          18.5136511
+        ]
+      },
+      "id": "node/2358247540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2445818924",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lokmanya Hospital Pradhikaran",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7734848,
+          18.6558556
+        ]
+      },
+      "id": "node/2445818924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2455119582",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Guruganesh Nagar",
+        "name:mr": "गुरुगणेश नगर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7995615,
+          18.5028438
+        ]
+      },
+      "id": "node/2455119582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2455119590",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Guruganesh Nagar",
+        "name:mr": "गुरुगणेश नगर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7995804,
+          18.5029501
+        ]
+      },
+      "id": "node/2455119590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2455119598",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kumbare Park",
+        "name:mr": "कुंबरे पार्क",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7981466,
+          18.5030721
+        ]
+      },
+      "id": "node/2455119598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2572819971",
+        "highway": "bus_stop",
+        "name": "Apple hospital bus stop",
+        "name:mr": "अॅपल रुग्णालय बस स्थानक",
+        "website": "https://www.pmpml.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7813266,
+          18.5885968
+        ]
+      },
+      "id": "node/2572819971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2787978003",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Maruti Mandir",
+        "name:mr": "मारुती मंदिर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8201261,
+          18.5036332
+        ]
+      },
+      "id": "node/2787978003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2787979370",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Maruti Mandir",
+        "name:mr": "मारुती मंदिर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8202879,
+          18.5036045
+        ]
+      },
+      "id": "node/2787979370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2787995165",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Karve Putala",
+        "name:mr": "कर्वे पुतळा",
+        "public_transport": "stop_position",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8165041,
+          18.5023184
+        ]
+      },
+      "id": "node/2787995165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2788028603",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "More Vidyalaya",
+        "name:mr": "मोरे विद्यालय",
+        "public_transport": "stop_position",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8195239,
+          18.5104613
+        ]
+      },
+      "id": "node/2788028603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2788056298",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "LIC Colony",
+        "name:mr": "एल आय सी कॉलनी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8185112,
+          18.5108084
+        ]
+      },
+      "id": "node/2788056298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2801208413",
+        "highway": "bus_stop",
+        "name": "Rakshalekha Society",
+        "name:mr": "रक्षालेखा सोसायटी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8387012,
+          18.4986966
+        ]
+      },
+      "id": "node/2801208413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2801208414",
+        "highway": "bus_stop",
+        "name": "Rakshalekha Society",
+        "name:mr": "रक्षालेखा सोसायटी"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.838861,
+          18.4987169
+        ]
+      },
+      "id": "node/2801208414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314826",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Alka Talkies",
+        "name:mr": "अलका टॉकीज",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8447895,
+          18.5128912
+        ]
+      },
+      "id": "node/2864314826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314827",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Alka Talkies",
+        "name:mr": "अलका टॉकीज",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8449935,
+          18.5133175
+        ]
+      },
+      "id": "node/2864314827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314829",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ambedkar Bhavan",
+        "name:mr": "आंबेडकर भवन",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8674666,
+          18.5241044
+        ]
+      },
+      "id": "node/2864314829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314830",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Anandnagar",
+        "name:mr": "आनंदनगर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8144337,
+          18.5095652
+        ]
+      },
+      "id": "node/2864314830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314831",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Anandnagar",
+        "name:mr": "आनंदनगर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8144064,
+          18.5096653
+        ]
+      },
+      "id": "node/2864314831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314833",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Andhashala",
+        "name:mr": "अंधशाळा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8033959,
+          18.4961031
+        ]
+      },
+      "id": "node/2864314833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314835",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Apollo Talkies",
+        "name:mr": "अपोलो टॉकीज",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8645808,
+          18.5194896
+        ]
+      },
+      "id": "node/2864314835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314836",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Appa Balwant Chowk (Hujurpaga)",
+        "name:mr": "अप्पा बळवंत चौक (हुजूरपागा)",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8537471,
+          18.5148942
+        ]
+      },
+      "id": "node/2864314836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314837",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Chitrashala",
+        "name:mr": "चित्रशाळा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8467444,
+          18.5130861
+        ]
+      },
+      "id": "node/2864314837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314839",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "City Post",
+        "name:mr": "सिटी पोस्ट",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8566591,
+          18.5157161
+        ]
+      },
+      "id": "node/2864314839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314840",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Commonwealth",
+        "name:mr": "कॉमनवेल्थ",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8515993,
+          18.5143807
+        ]
+      },
+      "id": "node/2864314840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314842",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Dakshinmukhi Maruti",
+        "name:mr": "दक्षिणमुखी मारुती",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8539774,
+          18.517793
+        ]
+      },
+      "id": "node/2864314842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314843",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "GPO",
+        "name:mr": "जी पी ओ",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8755291,
+          18.5235465
+        ]
+      },
+      "id": "node/2864314843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314844",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gananjay Society",
+        "name:mr": "गणंजय सोसायटी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8048194,
+          18.5001396
+        ]
+      },
+      "id": "node/2864314844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314847",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ganpati Chowk",
+        "name:mr": "गणपती चौक",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8549032,
+          18.5149638
+        ]
+      },
+      "id": "node/2864314847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314849",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gokhale Hall",
+        "name:mr": "गोखले हॉल",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8491322,
+          18.5140682
+        ]
+      },
+      "id": "node/2864314849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314852",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ideal Colony",
+        "name:mr": "आयडियल कॉलनी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.817114,
+          18.5102141
+        ]
+      },
+      "id": "node/2864314852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314853",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jay Bhavani Nagar",
+        "name:mr": "जय भवानी नगर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8125209,
+          18.5093847
+        ]
+      },
+      "id": "node/2864314853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314854",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jay Bhavani Nagar",
+        "name:mr": "जय भवानी नगर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8125105,
+          18.5094967
+        ]
+      },
+      "id": "node/2864314854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314855",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Jilha Parishad",
+        "name:mr": "जिल्हा परिषद",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8692408,
+          18.5234025
+        ]
+      },
+      "id": "node/2864314855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314856",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kasba Peth Police Chowki",
+        "name:mr": "कसबा पेठ पोलीस चौकी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8558408,
+          18.5205286
+        ]
+      },
+      "id": "node/2864314856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314858",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lal Mahal",
+        "name:mr": "लाल महाल",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8566475,
+          18.5185508
+        ]
+      },
+      "id": "node/2864314858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314860",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Mahesh Vidyalaya",
+        "name:mr": "महेश विद्यालय",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8022036,
+          18.4998645
+        ]
+      },
+      "id": "node/2864314860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314861",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Mahesh Vidyalaya",
+        "name:mr": "महेश विद्यालय",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8020954,
+          18.499877
+        ]
+      },
+      "id": "node/2864314861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314863",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "More Vidyalaya",
+        "name:mr": "मोरे विद्यालय",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8209852,
+          18.510085
+        ]
+      },
+      "id": "node/2864314863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314864",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nal Stop",
+        "name:mr": "नळ स्टॉप",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8320531,
+          18.509133
+        ]
+      },
+      "id": "node/2864314864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314865",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paud Phata",
+        "name:mr": "पौड फाटा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82385,
+          18.5068943
+        ]
+      },
+      "id": "node/2864314865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314866",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paud Phata",
+        "name:mr": "पौड फाटा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8233481,
+          18.5073528
+        ]
+      },
+      "id": "node/2864314866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314867",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Petrol Pump (Karve Road)",
+        "name:mr": "पेट्रोल पंप (कर्वे रस्ता)",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8348422,
+          18.5105082
+        ]
+      },
+      "id": "node/2864314867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314868",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Petrol Pump (Karve Road)",
+        "name:mr": "पेट्रोल पंप (कर्वे रस्ता)",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8350321,
+          18.5104965
+        ]
+      },
+      "id": "node/2864314868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314869",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Phadke Houd",
+        "name:mr": "फडके हौद",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8601444,
+          18.5188684
+        ]
+      },
+      "id": "node/2864314869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314871",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pune Station Bus Stand",
+        "name:mr": "पुणे स्टेशन बस स्थानक",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.872967,
+          18.5276102
+        ]
+      },
+      "id": "node/2864314871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314874",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sadashiv Peth Houd",
+        "name:mr": "सदाशिव पेठ हौद",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8506376,
+          18.5135108
+        ]
+      },
+      "id": "node/2864314874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314875",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sadhu Vaswani Chowk",
+        "name:mr": "साधु वास्वाणी चौक",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8765892,
+          18.5255769
+        ]
+      },
+      "id": "node/2864314875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314876",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sahajanand",
+        "name:mr": "सहजानंद",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8020771,
+          18.4963603
+        ]
+      },
+      "id": "node/2864314876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314877",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sahajanand",
+        "name:mr": "सहजानंद",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8019682,
+          18.4963634
+        ]
+      },
+      "id": "node/2864314877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314878",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sassoon Hospital",
+        "name:mr": "ससून रुग्णालय",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8715737,
+          18.525038
+        ]
+      },
+      "id": "node/2864314878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314879",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Shaniwarwada",
+        "name:mr": "शनिवारवाडा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8544934,
+          18.5196781
+        ]
+      },
+      "id": "node/2864314879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314880",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Shivtirth Nagar",
+        "name:mr": "शिवतीर्थ नगर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8097254,
+          18.508291
+        ]
+      },
+      "id": "node/2864314880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314883",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sutar Davakhana",
+        "name:mr": "सुतार दवाखाना",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8073938,
+          18.5041207
+        ]
+      },
+      "id": "node/2864314883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314886",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vijay Talkies",
+        "name:mr": "विजय टॉकीज",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8461613,
+          18.5137283
+        ]
+      },
+      "id": "node/2864314886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2864314888",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vivekanand Society",
+        "name:mr": "विवेकानंद सोसायटी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8054527,
+          18.5040593
+        ]
+      },
+      "id": "node/2864314888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868690833",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Dahanukar Colony",
+        "name:mr": "डहाणूकर कॉलनी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8127338,
+          18.4952945
+        ]
+      },
+      "id": "node/2868690833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868690835",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gandhibhavan Corner",
+        "name:mr": "गांधीभवन कॉर्नर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8133194,
+          18.4949314
+        ]
+      },
+      "id": "node/2868690835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868690836",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Gandhibhavan Corner",
+        "name:mr": "गांधीभवन कॉर्नर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8133582,
+          18.4957595
+        ]
+      },
+      "id": "node/2868690836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868690837",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Karve Putala",
+        "name:mr": "कर्वे पुतळा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8151114,
+          18.5017568
+        ]
+      },
+      "id": "node/2868690837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868690838",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kothrud Stand",
+        "name:mr": "कोथरूड स्टँड",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8137365,
+          18.4992732
+        ]
+      },
+      "id": "node/2868690838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868690839",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paud Phata",
+        "name:mr": "पौड फाटा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8242118,
+          18.5055329
+        ]
+      },
+      "id": "node/2868690839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2868690840",
+        "bus": "yes",
+        "description": "For buses going towards Karve Putala / कर्वे पुतळ्याकडे जाणाऱ्या बससाठी",
+        "highway": "bus_stop",
+        "name": "SNDT",
+        "name:mr": "एस एन डी टी",
+        "note": "For buses going towards Karve Putala / कर्वे पुतळ्याकडे जाणाऱ्या बससाठी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8284528,
+          18.5071341
+        ]
+      },
+      "id": "node/2868690840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389529",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Alka Talkies",
+        "name:mr": "अलका टॉकीज",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8443831,
+          18.5134183
+        ]
+      },
+      "id": "node/2870389529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389530",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Appa Balwant Chowk",
+        "name:mr": "अप्पा बळवंत चौक",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8531058,
+          18.5164089
+        ]
+      },
+      "id": "node/2870389530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389532",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bharati Nagar",
+        "name:mr": "भारती नगर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7970411,
+          18.5077269
+        ]
+      },
+      "id": "node/2870389532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389533",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bharati Nagar",
+        "name:mr": "भारती नगर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7970494,
+          18.5078301
+        ]
+      },
+      "id": "node/2870389533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389534",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kachra Depot",
+        "name:mr": "कचरा डेपो",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7993103,
+          18.5074485
+        ]
+      },
+      "id": "node/2870389534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389535",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kachra Depot",
+        "name:mr": "कचरा डेपो",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7998629,
+          18.5074913
+        ]
+      },
+      "id": "node/2870389535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389537",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kanyashala",
+        "name:mr": "कन्याशाळा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8508112,
+          18.5164014
+        ]
+      },
+      "id": "node/2870389537"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389540",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kesariwada",
+        "name:mr": "केसरीवाडा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8490922,
+          18.516199
+        ]
+      },
+      "id": "node/2870389540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389542",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kothrud Depot",
+        "name:mr": "कोथरुड डेपो",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7957057,
+          18.5079364
+        ]
+      },
+      "id": "node/2870389542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389543",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Mati Ganapati",
+        "name:mr": "माती गणपती",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8467218,
+          18.5157742
+        ]
+      },
+      "id": "node/2870389543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389545",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Mati Ganapati",
+        "name:mr": "माती गणपती",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8475116,
+          18.5160293
+        ]
+      },
+      "id": "node/2870389545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389546",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nana Wada",
+        "name:mr": "नाना वाडा",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8562164,
+          18.5183421
+        ]
+      },
+      "id": "node/2870389546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389547",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paramhans Corner",
+        "name:mr": "परमहंस कॉर्नर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8042709,
+          18.5069909
+        ]
+      },
+      "id": "node/2870389547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389548",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Paramhans Corner",
+        "name:mr": "परमहंस कॉर्नर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.803882,
+          18.5070688
+        ]
+      },
+      "id": "node/2870389548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389550",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Shastrinagar",
+        "name:mr": "शास्त्रीनगर",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8039771,
+          18.5043491
+        ]
+      },
+      "id": "node/2870389550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870389551",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Vasant Talkies",
+        "name:mr": "वसंत टॉकीज",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8562412,
+          18.5175013
+        ]
+      },
+      "id": "node/2870389551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2962916618",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Chaturshrungi Mandir",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8297376,
+          18.5398943
+        ]
+      },
+      "id": "node/2962916618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3376012874",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8291643,
+          18.5162246
+        ]
+      },
+      "id": "node/3376012874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3376049720",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8312717,
+          18.5190151
+        ]
+      },
+      "id": "node/3376049720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3377423144",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8766883,
+          18.5251849
+        ]
+      },
+      "id": "node/3377423144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3476057893",
+        "bench": "yes",
+        "bin": "no",
+        "highway": "bus_stop",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9242753,
+          18.5144797
+        ]
+      },
+      "id": "node/3476057893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3504367616",
+        "addr:city": "Pune",
+        "addr:postcode": "411041",
+        "addr:street": "DSK Vishwa Road",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "DSK Vishwa Road",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8037137,
+          18.4470544
+        ]
+      },
+      "id": "node/3504367616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3506824327",
+        "addr:street": "Narhe-Dhayari Road",
+        "highway": "bus_stop",
+        "name": "Shree/Oneness Controls"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8214983,
+          18.4449182
+        ]
+      },
+      "id": "node/3506824327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3506849385",
+        "highway": "bus_stop",
+        "name": "Vitthalwadi Jagat Naka",
+        "website": "https://pmpml.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8332611,
+          18.490873
+        ]
+      },
+      "id": "node/3506849385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3523097066",
+        "highway": "bus_stop",
+        "name": "Fatima Nagar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9020248,
+          18.5061011
+        ]
+      },
+      "id": "node/3523097066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3686791977",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "Sales Tax Office",
+        "operator": "PMPML",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8899727,
+          18.5548956
+        ]
+      },
+      "id": "node/3686791977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3718634778",
+        "addr:street": "DSK Vishwa Road",
+        "bench": "no",
+        "highway": "bus_stop",
+        "name": "DSK Vishwa Main Gate",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7997794,
+          18.4471004
+        ]
+      },
+      "id": "node/3718634778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3842308493",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bhosari-Sadguru Nagar Bus Depot",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8494433,
+          18.6320904
+        ]
+      },
+      "id": "node/3842308493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4153573589",
+        "highway": "bus_stop",
+        "name": "DIAT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7659054,
+          18.4256584
+        ]
+      },
+      "id": "node/4153573589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4322754590",
+        "highway": "bus_stop",
+        "name": "Veer  Bazi pasalkar chauk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8169782,
+          18.466108
+        ]
+      },
+      "id": "node/4322754590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359520989",
+        "highway": "bus_stop",
+        "name:en": "Navsahyadri bus stop",
+        "operator": "PMC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8282438,
+          18.4955755
+        ]
+      },
+      "id": "node/4359520989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359880110",
+        "highway": "bus_stop",
+        "name": "Vishal Nagar",
+        "name:en": "Vishal Nagar",
+        "name:mr": "विशाल नगर बस स्थानक",
+        "operator": "PMPML",
+        "shelter": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7841586,
+          18.58822
+        ]
+      },
+      "id": "node/4359880110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4407012691",
+        "highway": "bus_stop",
+        "name:en": "Golibar Maidan busstop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8780126,
+          18.5026904
+        ]
+      },
+      "id": "node/4407012691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4415723151",
+        "bus": "yes",
+        "description": "For buses going towards Paud road / पौड रस्त्याकडे जाणाऱ्या बससाठी",
+        "highway": "bus_stop",
+        "name": "SNDT",
+        "name:mr": "एस एन डी टी",
+        "note": "For buses going towards Paud road / पौड रस्त्याकडे जाणाऱ्या बससाठी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8289997,
+          18.5073892
+        ]
+      },
+      "id": "node/4415723151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4520573390",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Kendriya Vidyalaya Bus Stop",
+        "name:en": "Kendriya Vidyalaya Bus Stop",
+        "name:mr": "केंद्रीय विद्यालय",
+        "operator": "PMPML",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8185384,
+          18.5553512
+        ]
+      },
+      "id": "node/4520573390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4520573690",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Kendriya Vidyalaya Bus Stop",
+        "name:en": "Kendriya Vidyalaya Bus Stop",
+        "name:mr": "केंद्रीय विद्यालय",
+        "operator": "PMPML",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.818791,
+          18.5553252
+        ]
+      },
+      "id": "node/4520573690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4616977774",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Bremen Chowk bus stop",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8158101,
+          18.5594497
+        ]
+      },
+      "id": "node/4616977774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4616978809",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Bremen Chowk bus stop",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "shelter": "yes",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8152579,
+          18.5598505
+        ]
+      },
+      "id": "node/4616978809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4616980288",
+        "highway": "bus_stop",
+        "name": "MSRTC bus stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8138495,
+          18.5616389
+        ]
+      },
+      "id": "node/4616980288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4634647192",
+        "highway": "bus_stop",
+        "name:en": "MILIT Gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7690536,
+          18.4309769
+        ]
+      },
+      "id": "node/4634647192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4666604389",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8525199,
+          18.4993574
+        ]
+      },
+      "id": "node/4666604389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4805790723",
+        "highway": "bus_stop",
+        "name:en": "Vadgaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8150823,
+          18.4631016
+        ]
+      },
+      "id": "node/4805790723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4846861222",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8182352,
+          18.467024
+        ]
+      },
+      "id": "node/4846861222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4846864322",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8237861,
+          18.4776239
+        ]
+      },
+      "id": "node/4846864322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4872493521",
+        "highway": "bus_stop",
+        "name:en": "Khdakwasla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7732243,
+          18.4387878
+        ]
+      },
+      "id": "node/4872493521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5104468321",
+        "highway": "bus_stop",
+        "name:en": "Swar gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8578268,
+          18.5004434
+        ]
+      },
+      "id": "node/5104468321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5320264921",
+        "highway": "bus_stop",
+        "name:en": "Suncity Bus Stop Home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.814598,
+          18.4736964
+        ]
+      },
+      "id": "node/5320264921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5331712304",
+        "highway": "bus_stop",
+        "name": "Kondhwa Bus Stand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8901174,
+          18.4616911
+        ]
+      },
+      "id": "node/5331712304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5331712305",
+        "bench": "yes",
+        "highway": "bus_stop",
+        "name": "Kondhwa Bus Stand",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.890512,
+          18.4611959
+        ]
+      },
+      "id": "node/5331712305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5518857951",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Wipro company circle Bus Stop",
+        "network": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "operator": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7177453,
+          18.5968082
+        ]
+      },
+      "id": "node/5518857951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5518866210",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Wakad Chowk BRTS Stop",
+        "name:mr": "वाकड चौक BRTS स्थानक",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7616948,
+          18.5924133
+        ]
+      },
+      "id": "node/5518866210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5613507622",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Janak Baba Dargah",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9440402,
+          18.5654818
+        ]
+      },
+      "id": "node/5613507622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5823516369",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Akurdi chowk",
+        "network": "Red Bus",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7853156,
+          18.6502123
+        ]
+      },
+      "id": "node/5823516369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5839779120",
+        "bench": "yes",
+        "covered": "yes",
+        "highway": "bus_stop",
+        "name": "Kaivilas Bhai Burat Bus stop",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8220847,
+          18.4914276
+        ]
+      },
+      "id": "node/5839779120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5982741585",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lakshmi Nagar",
+        "note": "area: Sahakar Nagar",
+        "public_transport": "platform",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8498176,
+          18.4923891
+        ]
+      },
+      "id": "node/5982741585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5982741586",
+        "highway": "bus_stop",
+        "name": "sarang society",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.849857,
+          18.4899588
+        ]
+      },
+      "id": "node/5982741586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6038661594",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8092014,
+          18.555964
+        ]
+      },
+      "id": "node/6038661594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6045966843",
+        "bench": "yes",
+        "bus": "yes",
+        "from": "Pune Municipal Corporation",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Mhasoba Gate",
+        "name:mr": "म्हसोबा गेट",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "passenger_information_display": "no",
+        "shelter": "yes",
+        "surface": "cobblestone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8426659,
+          18.5320926
+        ]
+      },
+      "id": "node/6045966843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6046025724",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "पुणे सेंट्रल",
+        "name:en": "Pune Central",
+        "name:mr": "पुणे सेंट्रल",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8386625,
+          18.5348369
+        ]
+      },
+      "id": "node/6046025724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6046025725",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Rangehills Corner",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.835103,
+          18.5375741
+        ]
+      },
+      "id": "node/6046025725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6123882602",
+        "highway": "bus_stop",
+        "name:en": "Khese Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9124955,
+          18.5872076
+        ]
+      },
+      "id": "node/6123882602"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6128879904",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7811589,
+          18.5642133
+        ]
+      },
+      "id": "node/6128879904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6128879918",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7712022,
+          18.5661699
+        ]
+      },
+      "id": "node/6128879918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6131097721",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8074522,
+          18.5639148
+        ]
+      },
+      "id": "node/6131097721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6168664138",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8804387,
+          18.5360173
+        ]
+      },
+      "id": "node/6168664138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6283615890",
+        "highway": "bus_stop",
+        "name:en": "Kusalkar putala, PMPL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8270677,
+          18.5291463
+        ]
+      },
+      "id": "node/6283615890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6735922061",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Hinjawadi Maan Phase 3",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6881488,
+          18.5765691
+        ]
+      },
+      "id": "node/6735922061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6735965172",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Emcure bus stop",
+        "network": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "operator": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "public_transport": "platform",
+        "website": "https://www.pmpml.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7128372,
+          18.5960293
+        ]
+      },
+      "id": "node/6735965172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6735971454",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Tech Mahindra Bus Stop - DOWN",
+        "name:hi": "टेक महेंद्रा",
+        "name:mr": "टेक महेंद्रा",
+        "network": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "operator": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6876401,
+          18.5810205
+        ]
+      },
+      "id": "node/6735971454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6735989258",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Infosys 2 bus stop",
+        "network": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "operator": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "public_transport": "platform",
+        "website": "https://www.pmpml.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7076507,
+          18.5933129
+        ]
+      },
+      "id": "node/6735989258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6735991797",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Tata Motors Bus Stop",
+        "network": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "operator": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "public_transport": "platform",
+        "website": "https://www.pmpml.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6963882,
+          18.5851307
+        ]
+      },
+      "id": "node/6735991797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6735999721",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Tata Johnson bus stop",
+        "network": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "operator": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "public_transport": "platform",
+        "website": "https://www.pmpml.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7280769,
+          18.5945319
+        ]
+      },
+      "id": "node/6735999721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6736007354",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "शिवाजी चौक",
+        "name:en": "Shivaji Chowk",
+        "network": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "operator": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "public_transport": "platform",
+        "shelter": "no",
+        "website": "https://www.pmpml.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7389199,
+          18.5915771
+        ]
+      },
+      "id": "node/6736007354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6736008247",
+        "highway": "bus_stop",
+        "name": "Vishal Nagar",
+        "name:en": "Vishal Nagar",
+        "name:mr": "विशाल नगर बस स्थानक",
+        "operator": "PMPML",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "website": "https://www.pmpml.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7847443,
+          18.5883312
+        ]
+      },
+      "id": "node/6736008247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6736013662",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hinjawadi Jakat Naka bus stop",
+        "operator": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "public_transport": "platform",
+        "website": "https://www.pmpml.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7469406,
+          18.5909767
+        ]
+      },
+      "id": "node/6736013662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6736015125",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Savtamali Mandir bus stop",
+        "operator": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "public_transport": "platform",
+        "website": "https://www.pmpml.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7546921,
+          18.5920773
+        ]
+      },
+      "id": "node/6736015125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6736078144",
+        "highway": "bus_stop",
+        "name": "Wakad Phata bus stop",
+        "website": "https://www.pmpml.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.789566,
+          18.5879345
+        ]
+      },
+      "id": "node/6736078144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6736099516",
+        "highway": "bus_stop",
+        "name": "Rakshak Chowk bus stop",
+        "name:mr": "रक्षक चौक",
+        "website": "https://www.pmpml.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7988052,
+          18.5812645
+        ]
+      },
+      "id": "node/6736099516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6738093136",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "Hinjawadi Maan Phase 3",
+        "name:mr": "हिंजवडी माण फेज ३",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "no",
+        "website": "https://www.pmpml.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6884515,
+          18.5765513
+        ]
+      },
+      "id": "node/6738093136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6738185202",
+        "bench": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Tech Mahindra Bus Stop - UP",
+        "name:hi": "टेक महेंद्रा",
+        "name:mr": "टेक महेंद्रा",
+        "network": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "operator": "Pune Mahanagar Parivahan Mahamandal Ltd",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6878133,
+          18.5812271
+        ]
+      },
+      "id": "node/6738185202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6897634385",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8300745,
+          18.5302357
+        ]
+      },
+      "id": "node/6897634385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6994138429",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.73328,
+          18.5861947
+        ]
+      },
+      "id": "node/6994138429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6994138430",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.732812,
+          18.5903878
+        ]
+      },
+      "id": "node/6994138430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6994138431",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7326179,
+          18.5930015
+        ]
+      },
+      "id": "node/6994138431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6994138432",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7324761,
+          18.5936556
+        ]
+      },
+      "id": "node/6994138432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7036192285",
+        "highway": "bus_stop",
+        "name:en": "Neeta Bus Stop (Goa)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8552546,
+          18.4970748
+        ]
+      },
+      "id": "node/7036192285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7590035189",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Raviraj Hotel",
+        "name:mr": "रविराज हॉटेल",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "1",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8241571,
+          18.5833239
+        ]
+      },
+      "id": "node/7590035189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7590035190",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Raviraj Hotel",
+        "name:mr": "रविराज हॉटेल",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "2",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8242458,
+          18.5834676
+        ]
+      },
+      "id": "node/7590035190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7590035191",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Ramkrushna Mangal Karyalay",
+        "name:mr": "रामकृष्ण मंगल कार्यालय",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "2",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8215323,
+          18.5860259
+        ]
+      },
+      "id": "node/7590035191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7590035192",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Ramkrushna Mangal Karyalay",
+        "name:mr": "रामकृष्ण मंगल कार्यालय",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "1",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8218858,
+          18.5855181
+        ]
+      },
+      "id": "node/7590035192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7590057563",
+        "bench": "no",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pooja Hospital",
+        "name:mr": "पूजा रुग्णालय",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "1",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8199757,
+          18.5889036
+        ]
+      },
+      "id": "node/7590057563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7590057564",
+        "bench": "no",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "Pooja Hospital",
+        "name:mr": "पूजा रुग्णालय",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "2",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8200867,
+          18.5888228
+        ]
+      },
+      "id": "node/7590057564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7590085485",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Suvarna Park",
+        "name:mr": "सुवर्णा पार्क",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "2",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8195868,
+          18.5911932
+        ]
+      },
+      "id": "node/7590085485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7590085486",
+        "bench": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Suvarna Park",
+        "name:mr": "सुवर्णा पार्क",
+        "public_transport": "platform",
+        "ref": "1",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8195063,
+          18.5912745
+        ]
+      },
+      "id": "node/7590085486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7590101276",
+        "bench": "no",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Navin Manapa School",
+        "name:mr": "नविन मनपा शाळा",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "3",
+        "shelter": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.818732,
+          18.5920042
+        ]
+      },
+      "id": "node/7590101276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7590103285",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pimple Gurav",
+        "name:mr": "पिंपळेगुरव",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "1",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81885,
+          18.5930134
+        ]
+      },
+      "id": "node/7590103285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7590103287",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pimple Gurav",
+        "name:mr": "पिंपळेगुरव",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "2",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8185818,
+          18.5931278
+        ]
+      },
+      "id": "node/7590103287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7595272885",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Hinjawadi Phase-3 (Megapolis)",
+        "network": "Bus",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6817351,
+          18.5769188
+        ]
+      },
+      "id": "node/7595272885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7596719872",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pulgate",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8821368,
+          18.5060341
+        ]
+      },
+      "id": "node/7596719872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7597447244",
+        "bench": "no",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Aundh Gaon",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8120453,
+          18.5665501
+        ]
+      },
+      "id": "node/7597447244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7597447245",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "Aundh Gaon",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8120597,
+          18.565738
+        ]
+      },
+      "id": "node/7597447245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7628339382",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pimple Saudagar",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "3054",
+        "shelter": "yes",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8027923,
+          18.6010447
+        ]
+      },
+      "id": "node/7628339382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7628339383",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pimple Saudagar",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "3055",
+        "shelter": "yes",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8030334,
+          18.6007308
+        ]
+      },
+      "id": "node/7628339383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7628764450",
+        "bench": "no",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "Magzine Chowk",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "5636",
+        "shelter": "yes",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8747511,
+          18.6339646
+        ]
+      },
+      "id": "node/7628764450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7628764452",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Magzine Chowk",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "2951",
+        "shelter": "no",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8748982,
+          18.6338373
+        ]
+      },
+      "id": "node/7628764452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7628764454",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "Magzine Chowk",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "2952",
+        "shelter": "no",
+        "wikidata": "Q7260109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8751346,
+          18.6330548
+        ]
+      },
+      "id": "node/7628764454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7628764455",
+        "bus": "yes",
+        "departures_board": "yes",
+        "highway": "bus_stop",
+        "name": "Magzine Chowk",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "5636",
+        "shelter": "no",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8743942,
+          18.6330979
+        ]
+      },
+      "id": "node/7628764455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635224853",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Swargate",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "3131",
+        "shelter": "yes",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8578427,
+          18.4986771
+        ]
+      },
+      "id": "node/7635224853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635224854",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Swargate",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "4349",
+        "shelter": "yes",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8580866,
+          18.4994549
+        ]
+      },
+      "id": "node/7635224854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635224856",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Swargate",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "ref": "4350",
+        "shelter": "yes",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8585049,
+          18.4989302
+        ]
+      },
+      "id": "node/7635224856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7682976844",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Bhosari Gaon",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.851119,
+          18.6237985
+        ]
+      },
+      "id": "node/7682976844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7682976845",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Bhosari Terminal",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "wikidata": "Q7260109",
+        "wikipedia": "en:Pune Mahanagar Parivahan Mahamandal Limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8514606,
+          18.6245395
+        ]
+      },
+      "id": "node/7682976845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7812504402",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pune University",
+        "name:mr": "पुणे विद्यापीठ",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8270609,
+          18.5435997
+        ]
+      },
+      "id": "node/7812504402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7812504403",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pune University",
+        "name:mr": "पुणे विद्यापीठ",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8255849,
+          18.5428839
+        ]
+      },
+      "id": "node/7812504403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7812504404",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pune University",
+        "name:mr": "पुणे विद्यापीठ",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8269998,
+          18.5418672
+        ]
+      },
+      "id": "node/7812504404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7812504405",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pune University",
+        "name:mr": "पुणे विद्यापीठ",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8301449,
+          18.5413098
+        ]
+      },
+      "id": "node/7812504405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7812504406",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pune University",
+        "name:mr": "पुणे विद्यापीठ",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.829795,
+          18.5415395
+        ]
+      },
+      "id": "node/7812504406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7813253122",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pune Railway Station",
+        "name:mr": "पुणे रेल्वे स्टेशन",
+        "network": "PMPNL",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8749691,
+          18.528552
+        ]
+      },
+      "id": "node/7813253122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7813253123",
+        "bench": "yes",
+        "bus": "yes",
+        "departures_board": "timetable",
+        "highway": "bus_stop",
+        "name": "Pune Railway Station",
+        "name:mr": "पुणे रेल्वे स्टेशन",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8748898,
+          18.5285494
+        ]
+      },
+      "id": "node/7813253123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843109304",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Chinchwade Farm",
+        "network": "307, 310, 322",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7676895,
+          18.633338
+        ]
+      },
+      "id": "node/7843109304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843127845",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bijli Nagar",
+        "network": "322, 322 (ladies)",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7692979,
+          18.6441397
+        ]
+      },
+      "id": "node/7843127845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843127846",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Akurdi Railway Station",
+        "network": "Red Bus",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7653526,
+          18.6489881
+        ]
+      },
+      "id": "node/7843127846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843127847",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Akurdi Railway Station",
+        "network": "303, 322, 322 (Ladies)",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7652694,
+          18.6490357
+        ]
+      },
+      "id": "node/7843127847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843127848",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Akurdi Bus stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7671969,
+          18.6500049
+        ]
+      },
+      "id": "node/7843127848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843127849",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Ashok Bus Stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7751105,
+          18.6511778
+        ]
+      },
+      "id": "node/7843127849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843127850",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Shree Khandoba Chowk Akurdi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7853682,
+          18.6497377
+        ]
+      },
+      "id": "node/7843127850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843127851",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Akurdi",
+        "network": "12, 42, 43, 123, 139,281, 284,329, 336, 337, 348, 355, 366, 372",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7851758,
+          18.650614
+        ]
+      },
+      "id": "node/7843127851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843127852",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Akurdi",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7843729,
+          18.6508878
+        ]
+      },
+      "id": "node/7843127852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843127853",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Bajaj Auto",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7821169,
+          18.6537199
+        ]
+      },
+      "id": "node/7843127853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8035317727",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8539771,
+          18.4633074
+        ]
+      },
+      "id": "node/8035317727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8441745290",
+        "bench": "no",
+        "bus": "yes",
+        "from": "Pune Municipal Corporation",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Mhasoba Gate",
+        "name:mr": "म्हसोबा गेट",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "passenger_information_display": "no",
+        "shelter": "no",
+        "surface": "cobblestone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8423952,
+          18.532585
+        ]
+      },
+      "id": "node/8441745290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9350842858",
+        "bus": "yes",
+        "departures_board": "no",
+        "highway": "bus_stop",
+        "name": "Vishrantwadi",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8813476,
+          18.5731845
+        ]
+      },
+      "id": "node/9350842858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9350893515",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Lohgaon",
+        "network": "PMPML",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9247019,
+          18.5958799
+        ]
+      },
+      "id": "node/9350893515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9546560196",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Health Centre",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.828007,
+          18.5485137
+        ]
+      },
+      "id": "node/9546560196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9546560197",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "University gate",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8287098,
+          18.5426929
+        ]
+      },
+      "id": "node/9546560197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9546560198",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Girls' Hostel",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8281451,
+          18.5514754
+        ]
+      },
+      "id": "node/9546560198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9546624587",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825525,
+          18.5545058
+        ]
+      },
+      "id": "node/9546624587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9546624588",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8224216,
+          18.5557212
+        ]
+      },
+      "id": "node/9546624588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555748522",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pashan",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7977034,
+          18.5381403
+        ]
+      },
+      "id": "node/9555748522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555748524",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Pashan",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7958473,
+          18.5376292
+        ]
+      },
+      "id": "node/9555748524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555748525",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Kokate aali",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.793825,
+          18.5392669
+        ]
+      },
+      "id": "node/9555748525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555748526",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Dutt Mandir",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7927896,
+          18.5410673
+        ]
+      },
+      "id": "node/9555748526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555748527",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Dutt Mandir",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7927896,
+          18.5413496
+        ]
+      },
+      "id": "node/9555748527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555748528",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Balaji Mandir",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7911776,
+          18.5421557
+        ]
+      },
+      "id": "node/9555748528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555748529",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Balaji Mandir",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7910864,
+          18.541965
+        ]
+      },
+      "id": "node/9555748529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9555748531",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Sai Chowk",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.785714,
+          18.5433407
+        ]
+      },
+      "id": "node/9555748531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556066811",
+        "alt_name": "Panchwati",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Panchvati",
+        "name:mr": "पंचवटी",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8095682,
+          18.5392135
+        ]
+      },
+      "id": "node/9556066811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556066812",
+        "alt_name": "Panchwati",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Panchvati",
+        "name:mr": "पंचवटी",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8093348,
+          18.5389719
+        ]
+      },
+      "id": "node/9556066812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9556066813",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "NCL",
+        "operator": "PMPML",
+        "public_transport": "platform",
+        "shelter": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8119688,
+          18.5396267
+        ]
+      },
+      "id": "node/9556066813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9603810739",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "SNDT",
+        "name:mr": "एस एन डी टी",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8289274,
+          18.5074957
+        ]
+      },
+      "id": "node/9603810739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9644737055",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Maharashtra Housing Board Bus Stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8966809,
+          18.5617384
+        ]
+      },
+      "id": "node/9644737055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9644749116",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Nagpurchawl Bus Stop",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8931842,
+          18.5632318
+        ]
+      },
+      "id": "node/9644749116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9825097760",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Baner Depot (D-Mart)",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7689519,
+          18.5669824
+        ]
+      },
+      "id": "node/9825097760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9825097761",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Baner Depot (D-Mart)",
+        "public_transport": "platform"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7693194,
+          18.566697
+        ]
+      },
+      "id": "node/9825097761"
+    }
+  ]
+}
